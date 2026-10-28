@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1350" viewBox="0 0 1200 1350">
+<rect width="100%" height="100%" fill="white"/>
+<ellipse cx="440" cy="120" rx="165.0" ry="38.0" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="120.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">开始</text>
+<polyline points="440,158 440,237" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,237 446.0,223.0 434.0,223.0" fill="#252b31"/>
+<rect x="275.0" y="237.0" width="330" height="76" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="275.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">读取选定城市或尝试定位</text>
+<polyline points="440,313 440,373" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,373 446.0,359.0 434.0,359.0" fill="#252b31"/>
+<polygon points="440,373 625,430 440,487 255,430" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="430.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">是否取得查询地点？</text>
+<polyline points="440,487 440,547" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,547 446.0,533.0 434.0,533.0" fill="#252b31"/>
+<text x="416" y="517.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">是</text>
+<rect x="765.0" y="387.0" width="330" height="86" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="930" y="430.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">使用默认城市</text>
+<polyline points="625,430 765,430" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="765,430 751.0,424.0 751.0,436.0" fill="#252b31"/>
+<text x="695.0" y="408.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">否</text>
+<polyline points="1095,430 1130,430 1130,524 440,524 440,547" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,547 446.0,533.0 434.0,533.0" fill="#252b31"/>
+<rect x="275.0" y="547.0" width="330" height="76" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="585.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">查询城市天气</text>
+<polyline points="440,623 440,683" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,683 446.0,669.0 434.0,669.0" fill="#252b31"/>
+<polygon points="440,683 625,740 440,797 255,740" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="740.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">是否返回有效数据？</text>
+<polyline points="440,797 440,857" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,857 446.0,843.0 434.0,843.0" fill="#252b31"/>
+<text x="416" y="827.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">是</text>
+<rect x="765.0" y="697.0" width="330" height="86" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="930" y="740.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">提示查询失败或无数据</text>
+<polyline points="625,740 765,740" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="765,740 751.0,734.0 751.0,746.0" fill="#252b31"/>
+<text x="695.0" y="718.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="24" fill="#252b31">否</text>
+<polyline points="1095,740 1130,740 1130,989 440,989 440,1012" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,1012 446.0,998.0 434.0,998.0" fill="#252b31"/>
+<rect x="275.0" y="857.0" width="330" height="76" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="876.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">显示天气、日</text>
+<text x="440" y="914.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">期、时间和温度</text>
+<polyline points="440,933 440,1012" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,1012 446.0,998.0 434.0,998.0" fill="#252b31"/>
+<rect x="275.0" y="1012.0" width="330" height="76" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="1031.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">结束本次加载</text>
+<text x="440" y="1069.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">可重新查询</text>
+<polyline points="440,1088 440,1167" fill="none" stroke="#252b31" stroke-width="3"/>
+<polygon points="440,1167 446.0,1153.0 434.0,1153.0" fill="#252b31"/>
+<ellipse cx="440" cy="1205" rx="165.0" ry="38.0" fill="white" stroke="#252b31" stroke-width="3"/>
+<text x="440" y="1205.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="28" fill="#252b31">结束</text>
+</svg>

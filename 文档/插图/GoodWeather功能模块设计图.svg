@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1090" viewBox="0 0 2400 1090">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="870.0" y="60.0" width="660" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1200" y="110.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="36" fill="#252b31">基于Android的天气预报系统</text>
+<polyline points="1200,160 1200,220" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="220,220 2210,220" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="220,220 220,270" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="65.0" y="270.0" width="310" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="220" y="320.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="32" fill="#252b31">启动模块</text>
+<polyline points="220,370 220,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="181.0,440 259.0,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="181.0,440 181.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="149.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="181.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">基</text>
+<text x="181.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">础</text>
+<text x="181.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">数</text>
+<text x="181.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">据</text>
+<text x="181.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">初</text>
+<text x="181.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">始</text>
+<text x="181.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">化</text>
+<polyline points="259.0,440 259.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="227.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="259.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">进</text>
+<text x="259.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">入</text>
+<text x="259.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="259.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="259.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">主</text>
+<text x="259.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">页</text>
+<polyline points="650,220 650,270" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="495.0" y="270.0" width="310" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="650" y="320.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="32" fill="#252b31">城市管理模块</text>
+<polyline points="650,370 650,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="533.0,440 767.0,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="533.0,440 533.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="501.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="533.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">定</text>
+<text x="533.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">位</text>
+<text x="533.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">与</text>
+<text x="533.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="533.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="533.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">搜</text>
+<text x="533.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">索</text>
+<polyline points="611.0,440 611.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="579.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="611.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">推</text>
+<text x="611.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">荐</text>
+<text x="611.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="611.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="611.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">选</text>
+<text x="611.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">择</text>
+<polyline points="689.0,440 689.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="657.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="689.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">常</text>
+<text x="689.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">用</text>
+<text x="689.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="689.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="689.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">维</text>
+<text x="689.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">护</text>
+<polyline points="767.0,440 767.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="735.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="767.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">当</text>
+<text x="767.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">前</text>
+<text x="767.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="767.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="767.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">切</text>
+<text x="767.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">换</text>
+<polyline points="1220,220 1220,270" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1065.0" y="270.0" width="310" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1220" y="320.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="32" fill="#252b31">天气显示模块</text>
+<polyline points="1220,370 1220,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="947.0,440 1493.0,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="947.0,440 947.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="915.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="947.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">日</text>
+<text x="947.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">期</text>
+<text x="947.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">与</text>
+<text x="947.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">实</text>
+<text x="947.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">时</text>
+<text x="947.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">时</text>
+<text x="947.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">间</text>
+<polyline points="1025.0,440 1025.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="993.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1025.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="1025.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="1025.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">与</text>
+<text x="1025.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">当</text>
+<text x="1025.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">前</text>
+<text x="1025.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">温</text>
+<text x="1025.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">度</text>
+<polyline points="1103.0,440 1103.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1071.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1103.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">最</text>
+<text x="1103.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">高</text>
+<text x="1103.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">与</text>
+<text x="1103.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">最</text>
+<text x="1103.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">低</text>
+<text x="1103.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">温</text>
+<text x="1103.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">度</text>
+<polyline points="1181.0,440 1181.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1149.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1181.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="1181.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="1181.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">状</text>
+<text x="1181.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">况</text>
+<text x="1181.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">与</text>
+<text x="1181.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">图</text>
+<text x="1181.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">标</text>
+<polyline points="1259.0,440 1259.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1227.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1259.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">空</text>
+<text x="1259.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="1259.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">质</text>
+<text x="1259.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">量</text>
+<text x="1259.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">查</text>
+<text x="1259.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">询</text>
+<polyline points="1337.0,440 1337.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1305.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1337.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">生</text>
+<text x="1337.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">活</text>
+<text x="1337.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">指</text>
+<text x="1337.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">数</text>
+<text x="1337.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">查</text>
+<text x="1337.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">询</text>
+<polyline points="1415.0,440 1415.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1383.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1415.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">灾</text>
+<text x="1415.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">害</text>
+<text x="1415.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">预</text>
+<text x="1415.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">警</text>
+<text x="1415.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">查</text>
+<text x="1415.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">询</text>
+<polyline points="1493.0,440 1493.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1461.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1493.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">分</text>
+<text x="1493.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">钟</text>
+<text x="1493.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">降</text>
+<text x="1493.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">水</text>
+<text x="1493.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">查</text>
+<text x="1493.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">询</text>
+<polyline points="1790,220 1790,270" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1635.0" y="270.0" width="310" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1790" y="320.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="32" fill="#252b31">详细预报模块</text>
+<polyline points="1790,370 1790,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="1712.0,440 1868.0,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="1712.0,440 1712.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1680.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1712.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">当</text>
+<text x="1712.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">前</text>
+<text x="1712.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="1712.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="1712.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">概</text>
+<text x="1712.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">要</text>
+<polyline points="1790.0,440 1790.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1758.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1790.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">逐</text>
+<text x="1790.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">小</text>
+<text x="1790.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">时</text>
+<text x="1790.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="1790.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="1790.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">列</text>
+<text x="1790.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">表</text>
+<polyline points="1868.0,440 1868.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1836.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="1868.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">十</text>
+<text x="1868.0" y="638.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">五</text>
+<text x="1868.0" y="684.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="1868.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="1868.0" y="776.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="1868.0" y="822.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">预</text>
+<text x="1868.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">报</text>
+<polyline points="2210,220 2210,270" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2055.0" y="270.0" width="310" height="100" rx="16" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="2210" y="320.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="32" fill="#252b31">应用设置模块</text>
+<polyline points="2210,370 2210,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="2093.0,440 2327.0,440" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="2093.0,440 2093.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2061.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="2093.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">城</text>
+<text x="2093.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">市</text>
+<text x="2093.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">管</text>
+<text x="2093.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">理</text>
+<text x="2093.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">入</text>
+<text x="2093.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">口</text>
+<polyline points="2171.0,440 2171.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2139.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="2171.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">天</text>
+<text x="2171.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">气</text>
+<text x="2171.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">更</text>
+<text x="2171.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">新</text>
+<text x="2171.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">频</text>
+<text x="2171.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">率</text>
+<polyline points="2249.0,440 2249.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2217.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="2249.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">服</text>
+<text x="2249.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">务</text>
+<text x="2249.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">地</text>
+<text x="2249.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">址</text>
+<text x="2249.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">配</text>
+<text x="2249.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">置</text>
+<polyline points="2327.0,440 2327.0,500" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2295.0" y="500.0" width="64" height="460" rx="12" fill="white" stroke="#000000" stroke-width="2"/>
+<text x="2327.0" y="615.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">服</text>
+<text x="2327.0" y="661.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">务</text>
+<text x="2327.0" y="707.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">连</text>
+<text x="2327.0" y="753.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">接</text>
+<text x="2327.0" y="799.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">检</text>
+<text x="2327.0" y="845.0" text-anchor="middle" dominant-baseline="central" font-family="Songti SC,SimSun,serif" font-size="34" fill="#252b31">测</text>
+</svg>

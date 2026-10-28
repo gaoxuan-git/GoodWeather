@@ -1,0 +1,3 @@
+include ':MVPLibrary'
+include ':app'
+rootProject.name = "SuperWeather"

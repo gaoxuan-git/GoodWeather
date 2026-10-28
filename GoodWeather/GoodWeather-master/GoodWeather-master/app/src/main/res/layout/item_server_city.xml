@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_add_city"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp_4"
+    android:background="@drawable/shape_gray_bg_14"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dp_12"
+    android:paddingTop="@dimen/dp_8"
+    android:paddingRight="@dimen/dp_12"
+    android:paddingBottom="@dimen/dp_8">
+
+    <TextView
+        android:id="@+id/tv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/shallow_black"
+        android:textSize="@dimen/sp_14" />
+</LinearLayout>

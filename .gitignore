@@ -1,0 +1,43 @@
+# Local machine, IDE and build output
+.DS_Store
+*.iml
+**/.idea/
+**/.gradle/
+**/build/
+**/local.properties
+**/.externalNativeBuild/
+**/.cxx/
+**/META-INF/
+**/captures/
+.venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+*.log
+*.hprof
+node_modules/
+.superpowers/
+.screenshots/
+.uploads/
+.trae/
+.vscode/
+
+# Credentials and generated application packages
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+*.apk
+*.aab
+*.apks
+~$*
+
+# Preserve Gradle wrapper and bundled Android SDK dependencies
+!**/gradle/wrapper/gradle-wrapper.jar
+!**/app/libs/*.jar
